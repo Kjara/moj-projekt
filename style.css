@@ -1,4 +1,21 @@
 /* To bo naša css datoteka */
-#main {
-  color: red;
+#header {
+    color: red;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    height: 200px;
+    /* position: relative; */
+    top: 10px;
+    left: 10px;
+}
+
+#kvadratek{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        background-color: aqua;
 }
